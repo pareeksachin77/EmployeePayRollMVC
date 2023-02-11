@@ -1,0 +1,10 @@
+D:\EmployeePayrollMVC\ModelLayer\bin\Debug\netcoreapp3.1\ModelLayer.deps.json
+D:\EmployeePayrollMVC\ModelLayer\bin\Debug\netcoreapp3.1\ModelLayer.dll
+D:\EmployeePayrollMVC\ModelLayer\bin\Debug\netcoreapp3.1\ModelLayer.pdb
+D:\EmployeePayrollMVC\ModelLayer\obj\Debug\netcoreapp3.1\ModelLayer.csproj.AssemblyReference.cache
+D:\EmployeePayrollMVC\ModelLayer\obj\Debug\netcoreapp3.1\ModelLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\EmployeePayrollMVC\ModelLayer\obj\Debug\netcoreapp3.1\ModelLayer.AssemblyInfoInputs.cache
+D:\EmployeePayrollMVC\ModelLayer\obj\Debug\netcoreapp3.1\ModelLayer.AssemblyInfo.cs
+D:\EmployeePayrollMVC\ModelLayer\obj\Debug\netcoreapp3.1\ModelLayer.csproj.CoreCompileInputs.cache
+D:\EmployeePayrollMVC\ModelLayer\obj\Debug\netcoreapp3.1\ModelLayer.dll
+D:\EmployeePayrollMVC\ModelLayer\obj\Debug\netcoreapp3.1\ModelLayer.pdb
